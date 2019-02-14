@@ -1,6 +1,6 @@
 {
   "name": "LabSite",
-  "version": "0.1.0",
+  "version": "0.1.0-testDraftPR",
   "private": true,
   "dependencies": {
     "babel": "^6.23.0",
